@@ -1,2 +1,2 @@
 # Un nuevo titular, hecho por Nico.
-Ponemos un texto muchísimo mejor.
+Ponemos un texto muchísimo mejores.
