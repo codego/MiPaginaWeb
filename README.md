@@ -1,2 +1,2 @@
 # Un nuevo titular, hecho por Nico.
-Gonza cambio el texto
+Este es un mejor texto, segun yo. Gonza. Saludos.
